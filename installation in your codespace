@@ -1,0 +1,4 @@
+npm create vite@latest employee-shift-scheduler -- --template react
+cd employee-shift-scheduler
+npm install
+npm run dev
